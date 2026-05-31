@@ -19,4 +19,5 @@ What happens if they don't match? The tool won't work, and you will be forced to
 Language: C++ (Native & Clean)
 API: Win32 (No bloat, pure speed)
 Weight: So light, your CPU won't even know it's there.
-Stop renaming files by hand. Stop the madness. Get the Renamer.
+Stop renaming files by hand. Stop the madness. Get the Renamer
+Unlike web-based tools that require uploading your files, this tool runs locally on your machine for maximum privacy, speed, and reliability.
